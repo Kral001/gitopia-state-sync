@@ -1,4 +1,4 @@
-# gitopia-state-sync
+<h1 align="center"> Gitopia-State-Sync </h1>
 Gitopia'da bloklarınızın hızlıca eşleşmesini istiyorsanız uygulayabilirsiniz. Çok işe yarıyor.
 
 
